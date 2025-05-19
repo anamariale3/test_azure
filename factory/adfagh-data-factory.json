@@ -1,0 +1,9 @@
+{
+	"name": "adfagh-data-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ad490bf4-c9e1-46de-baf4-8df67bd39e2d",
+		"tenantId": "612e1bec-279b-45e8-b151-6bc01244d647"
+	}
+}
